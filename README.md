@@ -6,7 +6,7 @@ e quais estão ausentes.
 
 ## 🚀 Como usar
 
-1. Execução do Programa:
+### 1. Execução do Programa:
 
 📌 Compile e execute o programa em seu ambiente Go. Isso pode ser feito executando o comando go run seguido do nome do arquivo que contém o código no terminal: go run <nome_do_arquivo.go>.
 
